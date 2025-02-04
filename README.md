@@ -1,2 +1,2 @@
 # DSA-CPP
-All the OOP implementations of Data Structures and  Algorithms.
+My work while learning DSA in Cpp. Check it out.
